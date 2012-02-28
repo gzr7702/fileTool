@@ -1,0 +1,13 @@
+A gui that can be used to read, unzip (or untar), and report on different types of files. This comes out of the necessity to work with unknown file types
+that clients send us at work. Instead of using the file and less commands, I made a GUI version to help people who aren't as technical accomplish the same thing. 
+
+
+I chose to use Tkinter because it is easily available to anyone who is using Python and it's (relatively) easy to configure.
+
+- fileTool.py, fileActions.py, standardActions.py
+
+- Uses Tkinter and the Python version 2.7
+
+= To install, you need to have Python 2.7 and make sure that Tkinter is working. Please go to http://wiki.python.org/moin/TkInter and follow the instructions on setting it up.
+
+- Created by Rob Graziano
